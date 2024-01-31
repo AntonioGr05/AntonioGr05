@@ -1,7 +1,12 @@
 # 💫 About Me:
 Hello I am Antonio Galvan student of computer engineering, passionate about the development of new technologies and in search of new challenges.<br>I am currently learning about web application development, so I can develop as a full stack developer and learn something about mobile development with swift.
 
+## Projects:
+**TecOverflow**: Un foro web estudiantil, como proyecto final. Creado junto otros dos companeros, Eduardo Espiritu y Eduardo Nava [[Mi Perfil] ](https://www.hackerrank.com/profile/agalvanrojas05) 
 
+**frontendmentor**: Obteniendo habilidades en el FrontEnd [[Mi Perfil] ](https://www.frontendmentor.io/profile/AntonioGr05)
+
+**HackerRank**: Mi progreso en HackerRank. [[Mi Perfil] ](https://www.hackerrank.com/profile/agalvanrojas05)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agr_5467) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Antonio-Galvan-Rojas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AntonioGalvanR4) 
 
